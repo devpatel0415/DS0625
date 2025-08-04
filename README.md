@@ -1,4 +1,4 @@
 # DS0625
 
-## Python Projects
+This folder contsists of Codes for the Final Assignment of Data Science Professional Certification. 
 
