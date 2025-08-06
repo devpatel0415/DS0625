@@ -1,6 +1,5 @@
 # Data Science Projects Portfolio
 
-Welcome to my Data Science Projects repository! This repository showcases a diverse set of data science projects built with Python, Jupyter, SQL, and interactive visualization libraries like Folium, Dash, and Plotly. From exploring stock trends to mapping global launch sites and crafting dynamic dashboards, each project reflects a hands-on approach to data wrangling, exploratory analysis, and storytelling through visuals. Whether it's clustering geospatial markers, parsing HTML tables, or debugging machine learning workflows, this repo captures a growing portfolio of technical skills and creativity in action.
 
 ## 📂 Projects
 
